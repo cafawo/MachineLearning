@@ -1,6 +1,6 @@
 ![head.png](res/head.jpg)
 
-# Machine learning 2024
+# Machine learning 2025
 
 
 **Prof. Dr. Fabian Woebbeking**
@@ -15,19 +15,18 @@ MLU - Martin Luther University Halle-Wittenberg
 
 ## Important links:
 
-Slides: [https://iwh-halle.github.io/ML2024/ml.slides.html#/](https://iwh-halle.github.io/ML2024/ml.slides.html#/)
+Website: [https://wbk.ing/MachineLearning](https://wbk.ing/MachineLearning)
 
-Website: [https://iwh-halle.github.io/ML2024/](https://iwh-halle.github.io/ML2024/)
+Slides: [https://wbk.ing/MachineLearning/lecture.slides.html](https://wbk.ing/MachineLearning/lecture.slides.html)
 
-Repository: [https://github.com/iwh-halle/ML2024](https://github.com/iwh-halle/ML2024)
-
-Case study assignment: [https://classroom.github.com/a/fikjhYLc](https://classroom.github.com/a/fikjhYLc)
+Repository: [https://github.com/cafawo/MachineLearning](https://github.com/cafawo/MachineLearning)
 
 
-## Grading
+## Problem set
 
 Grading is based on one case study, where:
 
-1.	Group work is encouraged up to a maximum number of 3 students per group. 
-2.	Students should commit their case solutions to GitHub (link above). 
-3.	In addition (!) students should send their case solutions directly to Fabian.Woebbeking@iwh-halle.de and include Andrej.Drygalla@iwh-halle.de in cc. 
+1. The problem set (`problemset.ipynb`) can be found in the repository.
+2. Group work is encouraged up to a maximum number of 3 students per group. 
+3. Students must commit their case solutions to GitHub using this link: [https://classroom.github.com/a/fikjhYLc](https://classroom.github.com/a/fikjhYLc)
+4. In addition (!) students should send their case solutions directly to Fabian.Woebbeking@iwh-halle.de and include Andrej.Drygalla@iwh-halle.de in cc. 
