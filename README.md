@@ -29,4 +29,4 @@ Grading is based on one case study, where:
 1. The problem set (`problemset.ipynb`) can be found in the repository.
 2. Group work is encouraged up to a maximum number of 3 students per group. 
 3. Students must commit their case solutions to GitHub using this link: [classroom.github.com/a/KVGQ6ePg](https://classroom.github.com/a/KVGQ6ePg)
-4. In addition (!) students should send their case solutions directly to Fabian.Woebbeking@iwh-halle.de and include Andrej.Drygalla@iwh-halle.de in cc. 
+4. In addition (!) students must send a link to their group repository to Fabian.Woebbeking@iwh-halle.de and include Andrej.Drygalla@iwh-halle.de in cc. Make sure to include the names of all group members in this email.
